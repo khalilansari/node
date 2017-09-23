@@ -1,0 +1,27 @@
+{
+  "name": "khalil",
+  "version": "1.0.0",
+  "description": "js",
+  "main": "argv.js",
+  "dependencies": {
+    "nodemon": "^1.12.1",
+    "yargs": "^4.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "js test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalilansari/js.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "js anchor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalilansari/js/issues"
+  },
+  "homepage": "https://github.com/khalilansari/js#readme"
+}
